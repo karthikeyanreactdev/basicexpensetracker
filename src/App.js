@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-/* eslint-disable react/no-direct-mutation-state */*/
+/* eslint-disable react/no-direct-mutation-state */
 import React, { Component } from 'react';
 import { Button, Form, Container, Jumbotron, Table, Row } from 'react-bootstrap';
 import { AgChartsReact } from 'ag-charts-react';
